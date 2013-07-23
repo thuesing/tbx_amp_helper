@@ -1,0 +1,6 @@
+; $Id$
+name = Tbx filter
+description = Escape ampersand for Simple_table_of_contents Module.
+core = 7.x
+files[] = tbx_amp_helper.module
+dependencies[] = simple_table_of_contents
